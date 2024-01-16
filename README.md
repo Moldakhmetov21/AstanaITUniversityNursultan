@@ -56,5 +56,10 @@ Transaction Receiver
 
 - Function: `getTransactionReceiver() returns (address)`
 - Purpose: Retrieve the contract's address as the receiver of the current transaction.
+  
 ![Снимок экрана (148)](https://github.com/Moldakhmetov21/AstanaITUniversityNursultan/assets/156776337/c84e748e-fcf3-4a5d-a364-8f5554d66d94)
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
